@@ -1,4 +1,4 @@
-import Sakshi from './Sakshi.jsx'
+
 
 function App() {
   
